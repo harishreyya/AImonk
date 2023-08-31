@@ -13,7 +13,7 @@ The key features of application.
 
 ## Installation or How to run the app
 If you want to run our code then please read the instructions below :
-- Clone our repository `[(https://github.com/harishreyya/AImonk.git)](https://github.com/harishreyya/AImonk.git)`
+- Clone our repository [https://github.com/harishreyya/AImonk.git](https://github.com/harishreyya/AImonk.git)
 - Open the code in your VS code
 - Now run `npm install` or `npm i` which will install all the required packages of node
 - After installation, now run `npm start` and you will see a new window will be opening in the default browser which is running on port `http://localhost:3000`
