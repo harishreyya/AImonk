@@ -1,7 +1,7 @@
 # AImonk
 
 ## Introduction
-A front stack application which has a nested comment feature.
+A frontend application which has a nested comment feature.
 ## Features
 The key features of application.
 
